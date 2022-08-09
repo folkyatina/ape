@@ -146,7 +146,7 @@ plugins:
 Install these plugins by running command:
 
 ```bash
-ape plugins install
+ape plugins install .
 ```
 
 ## Testing
